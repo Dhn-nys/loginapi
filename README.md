@@ -15,7 +15,7 @@
 - [Mysql](https://dev.mysql.com/downloads/os-linux.html) or [Mariadb](https://downloads.mariadb.org/)
 
 <i>Windows</i>
-- [XAMPP](https://www.apachefriends.org/download.html)or[Laragon](https://laragon.org/download/index.html)
+- [XAMPP](https://www.apachefriends.org/download.html) or [Laragon](https://laragon.org/download/index.html)
 
 ## Demo
 [Visit](http://dhnnys.000webhostapp.com/P9/)
